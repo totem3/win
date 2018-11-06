@@ -1,0 +1,6 @@
+vimfiles/dict/*
+vimfiles/undo/*
+vimfiles/views/*
+vimfiles/plugin
+vimfiles/pack/*
+vimfiles/.netrwhist

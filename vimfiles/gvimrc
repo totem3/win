@@ -1,0 +1,6 @@
+source $VIMRUNTIME/delmenu.vim
+set enc=utf-8
+set langmenu=ja_jp.utf-8
+source $VIMRUNTIME/menu.vim
+
+colorscheme spring-night
